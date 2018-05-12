@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32430#The-Practical-Joke--Or-The-Christmas-Story-of-Uncle-Ned
 gutenberg_issued: '2010-05-19'
 gutenberg_type: Text
 identifiers:
